@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ShoppingCart.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
